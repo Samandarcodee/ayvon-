@@ -1,0 +1,5 @@
+{
+  "name": "RestoManager",
+  "description": "Ofline rejimda ishlovchi zamonaviy restoran boshqaruv tizimi: Stol band qilish va Chiqimlar hisobi.",
+  "requestFramePermissions": []
+}
